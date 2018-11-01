@@ -1,4 +1,4 @@
-# concurrent-merge-sort
+# concurrent-merge-sort(parallel processing)
 
 Given n numbers, sort the numbers using Merge Sort.
 
